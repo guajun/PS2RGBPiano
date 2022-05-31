@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "led.h": "c",
+        "stm32f4xx_hal_tim.h": "c",
+        "gpio.h": "c",
+        "stm32f4xx.h": "c",
+        "hsv2rgb.h": "c"
+    }
+}
